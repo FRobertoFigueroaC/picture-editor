@@ -1,0 +1,32 @@
+
+/* canvas {
+	background: #fff;
+	display: block;
+	margin:20px auto;
+	cursor: crosshair;
+} */
+
+
+canvas {
+	background: #fff;
+	display: inline-block;
+	margin:20px auto;
+
+	background-size: cover;
+
+	border: 3px solid #333;
+	cursor: crosshair;
+
+	/* max-height: 900px;
+	max-width:1200px;
+	overflow: scroll; */
+
+	/* width:100%;
+	height:100%; */
+
+}
+
+/* .output {
+	width:1200px;
+	height:900px;
+} */
